@@ -1,12 +1,12 @@
 # PayPr
 
-# 💸 PaypR — Modern Expense Tracker for Gen Z
+# 💸 PayPr — Modern Expense Tracker for Gen Z
 
 > _Track smarter. Spend better. No logins. No clutter. Just vibes._  
 
 PaypR is a beautifully animated, mobile-first expense tracker built for Gen Z users (and anyone who wants something cooler than spreadsheets). It helps you manage expenses with AI insights, heatmaps, and subtle gamification — all wrapped in a smooth, black & pastel blue UI.
 
-![PaypR Screenshot](./screenshots/dashboard.png)
+!
 
 ---
 
